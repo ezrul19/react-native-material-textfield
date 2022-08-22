@@ -7,8 +7,8 @@ import {
   Animated,
   StyleSheet,
   Platform,
-  ViewPropTypes,
 } from 'react-native';
+import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 
 import Line from '../line';
 import Label from '../label';
